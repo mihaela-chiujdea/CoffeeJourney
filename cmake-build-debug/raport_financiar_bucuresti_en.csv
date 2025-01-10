@@ -1,0 +1,10 @@
+Type,Source,Costs,Revenue,Profit
+Orders,Total,,146.5,146.5
+Events,﻿Nume Eveniment,0,0,0
+Events,Degustare Cafea,500,1200,700
+Events,Concert Jazz,800,1500,700
+Events,Sip and Paint,1000,1500,500
+Events,Jazz Night,1000,1400,400
+Product Costs,Total,159,,
+Employee Salaries,Total,663.636,,
+Summary,Total,822.636,2446.5,1623.86

@@ -1,0 +1,22 @@
+# ninja log v5
+2672	5596	7582234306424091	ColocviuPOO.exe	f655e035a939bde6
+42	2670	7582234296762973	CMakeFiles/ColocviuPOO.dir/main.cpp.obj	4a9e8067f27223b5
+34	1091	7582148907436621	CMakeFiles/ColocviuPOO.dir/Produse.cpp.obj	ae15fd838a9f5f07
+2	320	7582313478028247	build.ninja	9754649b585c7308
+44	992	7582148906438477	CMakeFiles/ColocviuPOO.dir/Angajati.cpp.obj	8bdeb7d72a460831
+5	1252	7582178183509287	CMakeFiles/ColocviuPOO.dir/Comenzi.cpp.obj	2d8a3a7cb2722687
+4	784	7574022765579017	CMakeFiles/ColocviuPOO.dir/CSVHelper.cpp.obj	ac35ece16ddf197e
+14	980	7582152163357569	CMakeFiles/ColocviuPOO.dir/Evenimente.cpp.obj	3f472d786fc194b2
+52	1412	7582148910636723	CMakeFiles/ColocviuPOO.dir/Raportare.cpp.obj	d9c786d9e49243e1
+16	457	7582313478028247	build.ninja	9754649b585c7308
+49	2099	7582313499909248	CMakeFiles/ColocviuPOO.dir/main.cpp.obj	4a9e8067f27223b5
+2100	4005	7582313504649786	ColocviuPOO.exe	bc233676e4448caa
+17	1832	7582319936737110	CMakeFiles/ColocviuPOO.dir/main.cpp.obj	4a9e8067f27223b5
+1833	2512	7582319941412988	ColocviuPOO.exe	bc233676e4448caa
+58	1758	7582359950855101	CMakeFiles/ColocviuPOO.dir/Angajati.cpp.obj	8bdeb7d72a460831
+80	1773	7582359951127190	CMakeFiles/ColocviuPOO.dir/Evenimente.cpp.obj	3f472d786fc194b2
+69	1895	7582359952465153	CMakeFiles/ColocviuPOO.dir/Comenzi.cpp.obj	2d8a3a7cb2722687
+95	2284	7582359956401235	CMakeFiles/ColocviuPOO.dir/Raportare.cpp.obj	d9c786d9e49243e1
+41	2516	7582359958699456	CMakeFiles/ColocviuPOO.dir/main.cpp.obj	4a9e8067f27223b5
+49	3016	7582359963730833	CMakeFiles/ColocviuPOO.dir/Produse.cpp.obj	ae15fd838a9f5f07
+3017	3436	7582359967491583	ColocviuPOO.exe	bc233676e4448caa

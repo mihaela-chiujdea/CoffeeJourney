@@ -1,0 +1,3 @@
+C:/Users/mihac/CLionProjects/ColocviuPOO/cmake-build-debug/CMakeFiles/ColocviuPOO.dir
+C:/Users/mihac/CLionProjects/ColocviuPOO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mihac/CLionProjects/ColocviuPOO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
